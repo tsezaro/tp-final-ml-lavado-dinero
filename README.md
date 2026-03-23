@@ -6,6 +6,15 @@ Este proyecto utiliza modelos de Machine Learning para detectar transacciones so
 
 ---
 
+## Participantes
+
+| Nombre              | Rol        |
+|---------------------|------------|
+| Sezaro, Tomás       | End-to-End |
+| Islas, Cecilia      | End-to-End |
+| Frias, Noelia       | End-to-End |
+| Gottig, Nicolas     | End-to-End |
+
 ## Cómo ejecutar
 
 1. Clonar el repositorio:
