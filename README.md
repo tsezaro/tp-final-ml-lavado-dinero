@@ -53,7 +53,6 @@ El proyecto sigue la metodología CRISP-DM:
 ## Resultados
 - ROC-AUC: > 0.98
 - Recall: > 85%
-- Precision: baja (debido a la naturaleza del problema)
 
 El modelo demuestra una alta capacidad de detección de transacciones sospechosas.
 
