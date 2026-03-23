@@ -16,7 +16,7 @@ git clone https://github.com/tsezaro/tp-final-ml-lavado-dinero.git
 ## Requisitos
 
 - Python 3.12.7
-- 
+  
 ## Dataset
 Se utilizó el dataset **IBM AMLSim (Anti Money Laundering)**, que simula un sistema bancario real con millones de transacciones.
 
